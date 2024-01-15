@@ -20,47 +20,27 @@
         Code de la requête :
         <pre>
         <code>
-            SELECT DISTINCT ?university ?universityLabel 
-                ?inception 
-                ?located_in_the_administrative_territorial_entity ?located_in_the_administrative_territorial_entityLabel 
-                ?country ?countryLabel ?coordinate_location ?students_count ?image 
-            WHERE {
-              SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-              ?university wdt:P31 wd:Q3918.
-              ?university wdt:P571 ?inception. 
-              ?university wdt:P131 ?located_in_the_administrative_territorial_entity. 
-              ?university wdt:P17 ?country. 
-              ?university wdt:P625 ?coordinate_location. 
-              ?university wdt:P2196 ?students_count. 
-              ?university wdt:P18 ?image. 
-            }
+SELECT ?film ?image ?director ?producer ?actor ?writer ?release_date WHERE {
+  ?film wdt:P31 wd:Q11424;
+    wdt:P18 ?image;
+    wdt:P57 ?director;
+    wdt:P162 ?producer;
+    wdt:P161 ?actor;
+    wdt:P58 ?writer;
+    wdt:P577 ?release_date.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  OPTIONAL {  }
+  OPTIONAL {  }
+}
         </code>
         </pre>
 
     </p>
+ <p>La figure suivant montre les serie televiser </p> 
+    <iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/#SELECT%20%3Ffilm%20%3Fimage%20%3Fdirector%20%3Fproducer%20%3Factor%20%3Fwriter%20%3Frelease_date%20WHERE%20%7B%0A%20%20%3Ffilm%20wdt%3AP31%20wd%3AQ11424%3B%0A%20%20%20%20wdt%3AP18%20%3Fimage%3B%0A%20%20%20%20wdt%3AP57%20%3Fdirector%3B%0A%20%20%20%20wdt%3AP162%20%3Fproducer%3B%0A%20%20%20%20wdt%3AP161%20%3Factor%3B%0A%20%20%20%20wdt%3AP58%20%3Fwriter%3B%0A%20%20%20%20wdt%3AP577%20%3Frelease_date.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%20%7D%0A%20%20OPTIONAL%20%7B%20%20%7D%0A%7D" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
-    <iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Funiversity%20%3FuniversityLabel%20%3Finception%20%3Flocated_in_the_administrative_territorial_entity%20%3Flocated_in_the_administrative_territorial_entityLabel%20%3Fcountry%20%3FcountryLabel%20%3Fcoordinate_location%20%3Fstudents_count%20%3Fimage%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20%3Funiversity%20wdt%3AP31%20wd%3AQ3918.%0A%20%20%3Funiversity%20wdt%3AP571%20%3Finception.%20%0A%20%20%3Funiversity%20wdt%3AP131%20%3Flocated_in_the_administrative_territorial_entity.%20%0A%20%20%3Funiversity%20wdt%3AP17%20%3Fcountry.%20%0A%20%20%3Funiversity%20wdt%3AP625%20%3Fcoordinate_location.%20%0A%20%20%3Funiversity%20wdt%3AP2196%20%3Fstudents_count.%20%0A%20%20%3Funiversity%20wdt%3AP18%20%3Fimage.%20%0A%7D%0A" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+   
 
-    <p>La figure suivante montre les universités ayant le plus nombre d'étudiant.e.s inscrit.e.s. On voit que le Mexique, l'Egypte, la Russie, le Nigeria, les États-Unis et la Chine, figurent parmi les plus élevées.</p> 
-    
-    <p>
-       <img src="fig01-ex01.png" width="700px;">
-    </p>
-
-    <p>
-        Au survol de chaque point du graphique, on découvre le nom des universités :
-    </p>
-    
-    <p>
-        <ol>
-            <li>Mexique, UNAM, 360883 students.</li>
-            <li>Egypte, Cairo University, 257200 students.</li>
-            <li>Russie, Russian Presidential Academy, 106017 students.</li>
-            <li>Nigeria, Lagos State University, 90885 students.</li>
-            <li>Chine, Sichuan University, 70000 students.</li>
-            <li>USA, Texas A&M University, 69465 students.</li>
-        </ol>
-    </p>
     
 </body>
 </html>
