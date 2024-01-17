@@ -4,6 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <script src="https://cdn.jsdelivr.net/npm/vega@5.26.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.16.3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.23.0"></script>
     <title>Exercice 2</title>
   </head>
   <body>
@@ -31,7 +34,25 @@
     <div>
 <iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Ffilm%20%3Fimage%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20%3Ffilm%20wdt%3AP31%20wd%3AQ5398426%3B%0A%20%20%20%20wdt%3AP136%20wd%3AQ343782%3B%0A%20%20%20%20wdt%3AP18%20%3Fimage.%0A%20%20%0A%7D" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups">
   
-</iframe>   
+</iframe>  
+
+        <div id="vis"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/anasely/datavis2024/main/Netflix-series.json"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "country", "type": "nominal"},
+    "y": {"aggregate": "count", "type": "quantitative"},
+    "color": {"field": "type", "type": "nominal"}
+  },
+  "config": {}
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
     </div>
     
   </body>
