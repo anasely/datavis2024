@@ -1,530 +1,626 @@
 [
   {
     "show_id": "s8",
-    "type": "Movie",
+    "genre": "Drama",
     "title": "Sankofa",
     "director": "Haile Gerima",
     "cast": "Kofi Ghanaba, Oyafunmike Ogunlano, Alexandra Duah, Nick Medley, Mutabaruka, Afemo Omilami, Reggie Carter, Mzuri",
     "country": "Ghana",
     "date_added": "September 24, 2021",
     "release_year": 1993,
-    "duration": "125 min"
+    "rating": 7.1,
+    "language": "English",
+    "profit": 500
   },
   {
     "show_id": "s9",
-    "type": "TV Show",
+    "genre": "Reality",
     "title": "The Great British Baking Show",
     "director": "Andy Devonshire",
     "cast": "Mel Giedroyc, Sue Perkins, Mary Berry, Paul Hollywood",
     "country": "United Kingdom",
     "date_added": "September 24, 2021",
     "release_year": 2021,
-    "duration": "9 Seasons"
+    "rating": 8.2,
+    "language": "English",
+    "profit": 890
   },
   {
     "show_id": "s10",
-    "type": "Movie",
+    "genre": "Comedy",
     "title": "The Starling",
     "director": "Theodore Melfi",
     "cast": "Melissa McCarthy, Chris O'Dowd, Kevin Kline, Timothy Olyphant, Daveed Diggs, Skyler Gisondo, Laura Harrier, Rosalind Chao, Kimberly Quinn, Loretta Devine, Ravi Kapoor",
     "country": "United States",
     "date_added": "September 24, 2021",
     "release_year": 2021,
-    "duration": "104 min"
+    "rating": 8.3,
+    "language": "English",
+    "profit": 1270
   },
   {
     "show_id": "s13",
-    "type": "Movie",
+    "genre": "Drama",
     "title": "Je Suis Karl",
     "director": "Christian Schwochow",
     "cast": "Luna Wedler, Jannis Niewöhner, Milan Peschel, Edin Hasanović, Anna Fialová, Marlon Boess, Victor Boccard, Fleur Geffrier, Aziz Dyab, Mélanie Fouché, Elizaveta Maximová",
     "country": "Germany",
     "date_added": "September 23, 2021",
     "release_year": 2021,
-    "duration": "127 min"
+    "rating": 8,
+    "language": "German",
+    "profit": 1050
   },
   {
     "show_id": "s25",
-    "type": "Movie",
-    "title": "Jeans",
+    "genre": "Drama",
+    "title": "Drame",
     "director": "S. Shankar",
     "cast": "Prashanth, Aishwarya Rai Bachchan, Sri Lakshmi, Nassar",
     "country": "India",
     "date_added": "September 21, 2021",
     "release_year": 1998,
-    "duration": "166 min"
+    "rating": 6.9,
+    "language": "Indian",
+    "profit": 616
   },
   {
     "show_id": "s28",
-    "type": "Movie",
+    "genre": "Comedy",
     "title": "Grown Ups",
     "director": "Dennis Dugan",
     "cast": "Adam Sandler, Kevin James, Chris Rock, David Spade, Rob Schneider, Salma Hayek, Maria Bello, Maya Rudolph, Colin Quinn, Tim Meadows, Joyce Van Patten",
     "country": "United States",
     "date_added": "September 20, 2021",
     "release_year": 2010,
-    "duration": "103 min"
+    "rating": 8.3,
+    "language": "English",
+    "profit": 838
   },
   {
     "show_id": "s29",
-    "type": "Movie",
+    "genre": "Science fiction",
     "title": "Dark Skies",
     "director": "Scott Stewart",
     "cast": "Keri Russell, Josh Hamilton, J.K. Simmons, Dakota Goyo, Kadan Rockett, L.J. Benet, Rich Hutchman, Myndy Crist, Annie Thurman, Jake Brennan",
     "country": "United States",
     "date_added": "September 19, 2021",
     "release_year": 2013,
-    "duration": "97 min"
+    "rating": 8.1,
+    "language": "English",
+    "profit": 910
   },
   {
     "show_id": "s30",
-    "type": "TV Show",
+    "genre": "Thriller",
     "title": "Paranoia",
     "director": "Robert Luketic",
     "cast": "Liam Hemsworth, Gary Oldman, Amber Heard, Harrison Ford, Lucas Till, Embeth Davidtz, Julian McMahon, Josh Holloway, Richard Dreyfuss, Angela Sarafyan",
     "country": "France",
     "date_added": "September 19, 2021",
     "release_year": 2013,
-    "duration": "106 min"
+    "rating": 7.5,
+    "language": "French",
+    "profit": 1120
   },
   {
     "show_id": "s39",
-    "type": "Movie",
+    "genre": "Action",
     "title": "Birth of the Dragon",
     "director": "George Nolfi",
     "cast": "Billy Magnussen, Ron Yuan, Qu Jingjing, Terry Chen, Vanness Wu, Jin Xing, Philip Ng, Xia Yu, Yu Xia",
     "country": "China",
     "date_added": "September 16, 2021",
     "release_year": 2017,
-    "duration": "96 min"
+    "rating": 7.1,
+    "language": "Chinese",
+    "profit": 1200
   },
   {
     "show_id": "s42",
-    "type": "Movie",
+    "genre": "Thriller",
     "title": "Jaws",
     "director": "Steven Spielberg",
     "cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Jonathan Filley, Ted Grossman",
     "country": "United States",
     "date_added": "September 16, 2021",
     "release_year": 1975,
-    "duration": "124 min"
+    "rating": 7,
+    "language": "English",
+    "profit": 650
   },
   {
     "show_id": "s43",
-    "type": "TV Show",
+    "genre": "Thriller",
     "title": "Jaws 2",
     "director": "Jeannot Szwarc",
     "cast": "Roy Scheider, Lorraine Gary, Murray Hamilton, Joseph Mascolo, Jeffrey Kramer, Collin Wilcox Paxton, Ann Dusenberry, Mark Gruner, Barry Coe, Susan French",
     "country": "United States",
     "date_added": "September 16, 2021",
     "release_year": 1978,
-    "duration": "116 min"
+    "rating": 6.8,
+    "language": "English",
+    "profit": 680
   },
   {
     "show_id": "s44",
-    "type": "Movie",
+    "genre": "Thriller",
     "title": "Jaws 3",
     "director": "Joe Alves",
     "cast": "Dennis Quaid, Bess Armstrong, Simon MacCorkindale, Louis Gossett Jr., John Putch, Lea Thompson, P.H. Moriarty, Dan Blasko, Liz Morris, Lisa Maurer",
     "country": "United States",
     "date_added": "September 16, 2021",
     "release_year": 1983,
-    "duration": "98 min"
+    "rating": 7.2,
+    "language": "English",
+    "profit": 760
   },
   {
     "show_id": "s45",
-    "type": "Movie",
+    "genre": "Horror",
     "title": "Jaws: The Revenge",
     "director": "Joseph Sargent",
     "cast": "Lorraine Gary, Lance Guest, Mario Van Peebles, Karen Young, Michael Caine, Judith Barsi, Mitchell Anderson, Lynn Whitfield",
     "country": "United States",
     "date_added": "September 16, 2021",
     "release_year": 1987,
-    "duration": "91 min"
+    "rating": 7.4,
+    "language": "English",
+    "profit": 780
   },
   {
     "show_id": "s47",
-    "type": "TV Show",
+    "genre": "Action",
     "title": "Safe House",
     "director": "Daniel Espinosa",
     "cast": "Denzel Washington, Ryan Reynolds, Vera Farmiga, Brendan Gleeson, Sam Shepard, Rubén Blades, Nora Arnezeder, Robert Patrick, Liam Cunningham, Joel Kinnaman",
     "country": "South Africa",
     "date_added": "September 16, 2021",
     "release_year": 2012,
-    "duration": "115 min"
+    "rating": 8.3,
+    "language": "English",
+    "profit": 1340
   },
   {
     "show_id": "s49",
-    "type": "TV Show",
+    "genre": "Crime",
     "title": "Training Day",
     "director": "Antoine Fuqua",
     "cast": "Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger, Harris Yulin, Raymond J. Barry, Cliff Curtis, Dr. Dre, Snoop Dogg, Macy Gray, Eva Mendes",
     "country": "United States",
     "date_added": "September 16, 2021",
     "release_year": 2001,
-    "duration": "122 min"
+    "rating": 7.6,
+    "language": "English",
+    "profit": 1000
   },
   {
     "show_id": "s52",
-    "type": "TV Show",
+    "genre": "Action",
     "title": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
     "director": "Toshiya Shinohara",
     "cast": "Kappei Yamaguchi, Satsuki Yukino, Mieko Harada, Koji Tsujitani, Houko Kuwashima, Kumiko Watanabe, Noriko Hidaka, Kenichi Ogata, Toshiyuki Morikawa, Izumi Ogami",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2002,
-    "duration": "99 min"
+    "rating": 7,
+    "language": "Japanese",
+    "profit": 870
   },
   {
     "show_id": "s53",
-    "type": "TV Show",
+    "genre": "Action",
     "title": "InuYasha the Movie 3: Swords of an Honorable Ruler",
     "director": "Toshiya Shinohara",
     "cast": "Kappei Yamaguchi, Satsuki Yukino, Koji Tsujitani, Houko Kuwashima, Kumiko Watanabe, Ken Narita, Akio Otsuka, Kikuko Inoue",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2003,
-    "duration": "99 min"
+    "rating": 8.4,
+    "language": "Japanese",
+    "profit": 910
   },
   {
     "show_id": "s54",
-    "type": "TV Show",
+    "genre": "Action",
     "title": "InuYasha the Movie 4: Fire on the Mystic Island",
     "director": "Toshiya Shinohara",
     "cast": "Kappei Yamaguchi, Satsuki Yukino, Koji Tsujitani, Houko Kuwashima, Kumiko Watanabe, Noriko Hidaka, Ken Narita, Cho, Mamiko Noto, Nobutoshi Canna",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2004,
-    "duration": "88 min"
+    "rating": 8.3,
+    "language": "Japanese",
+    "profit": 950
   },
   {
     "show_id": "s55",
-    "type": "TV Show",
+    "genre": "Action",
     "title": "InuYasha the Movie: Affections Touching Across Time",
     "director": "Toshiya Shinohara",
     "cast": "Kappei Yamaguchi, Satsuki Yukino, Koji Tsujitani, Houko Kuwashima, Kumiko Watanabe, Kenichi Ogata, Noriko Hidaka, Hisako Kyoda, Ken Narita, Tomokazu Seki",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2001,
-    "duration": "100 min"
+    "rating": 8,
+    "language": "Japanese",
+    "profit": 770
   },
   {
     "show_id": "s57",
-    "type": "TV Show",
+    "genre": "Thriller",
     "title": "Naruto Shippuden the Movie: Blood Prison",
     "director": "Masahiko Murata",
     "cast": "Junko Takeuchi, Chie Nakamura, Rikiya Koyama, Kazuhiko Inoue, Masaki Terasoma, Mie Sonozaki, Yuichi Nakamura, Kengo Kawanishi, Kosei Hirota, Masako Katsuki",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2011,
-    "duration": "102 min"
+    "rating": 8.2,
+    "language": "Japanese",
+    "profit": 850
   },
   {
     "show_id": "s58",
-    "type": "TV Show",
+    "genre": "Thriller",
     "title": "Naruto Shippûden the Movie: Bonds",
     "director": "Hajime Kamegaki",
     "cast": "Junko Takeuchi, Chie Nakamura, Noriaki Sugiyama, Unsho Ishizuka, Motoko Kumai, Kazuhiko Inoue, Rikiya Koyama, Showtaro Morikubo, Nana Mizuki, Satoshi Hino, Shinji Kawada",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2008,
-    "duration": "93 min"
+    "rating": 8.1,
+    "language": "Japanese",
+    "profit": 1000
   },
   {
     "show_id": "s59",
-    "type": "TV Show",
+    "genre": "Thriller",
     "title": "Naruto Shippûden the Movie: The Will of Fire",
     "director": "Masahiko Murata",
     "cast": "Junko Takeuchi, Chie Nakamura, Kazuhiko Inoue, Satoshi Hino, Showtaro Morikubo, Kentaro Ito, Ryoka Yuzuki, Kohsuke Toriumi, Nana Mizuki, Shinji Kawada, Yoichi Masukawa, Koichi Tochika, Yukari Tamura",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2009,
-    "duration": "96 min"
+    "rating": 8.3,
+    "language": "Japanese",
+    "profit": 1030
   },
   {
     "show_id": "s60",
-    "type": "Movie",
+    "genre": "Thriller",
     "title": "Naruto Shippuden: The Movie",
     "director": "Hajime Kamegaki",
     "cast": "Junko Takeuchi, Chie Nakamura, Yoichi Masukawa, Koichi Tochika, Ayumi Fujimura, Keisuke Oda, Daisuke Kishio, Fumiko Orikasa, Hidetoshi Nakamura, Tetsuya Kakihara, Kisho Taniyama, Miyuki Sawashiro, Katsuyuki Konishi, Masako Katsuki, Keiko Nemoto, Masashi Ebara, Kazuhiko Inoue, Showtaro Morikubo, Romi Park, Daisuke Ono, Seizo Kato",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2007,
-    "duration": "95 min"
+    "rating": 8.1,
+    "language": "Japanese",
+    "profit": 1020
   },
   {
     "show_id": "s61",
-    "type": "Movie",
+    "genre": "Thriller",
     "title": "Naruto Shippuden: The Movie: The Lost Tower",
     "director": "Masahiko Murata",
     "cast": "Junko Takeuchi, Chie Nakamura, Satoshi Hino, Rikiya Koyama, Nobuaki Fukuda, Kenji Hamada, Keiko Nemoto, Saori Hayami, Yumi Toma, Yuko Kobayashi, Fujiko Takimoto, Mutsumi Tamura, Mayuki Makiguchi, Toshiyuki Morikawa",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2010,
-    "duration": "85 min"
+    "rating": 7.8,
+    "language": "Japanese",
+    "profit": 1237
   },
   {
     "show_id": "s62",
-    "type": "Movie",
+    "genre": "Thriller",
     "title": "Naruto the Movie 2: Legend of the Stone of Gelel",
     "director": "Hirotsugu Kawasaki",
     "cast": "Junko Takeuchi, Gamon Kaai, Chie Nakamura, Showtaro Morikubo, Akira Ishida, Yasuyuki Kase, Urara Takano, Sachiko Kojima, Houko Kuwashima, Takako Honda",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2005,
-    "duration": "97 min"
+    "rating": 7.3,
+    "language": "Japanese",
+    "profit": 740
   },
   {
     "show_id": "s63",
-    "type": "Movie",
+    "genre": "Thriller",
     "title": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
     "director": "Toshiyuki Tsuru",
     "cast": "Junko Takeuchi, Chie Nakamura, Yoichi Masukawa, Kazuhiko Inoue, Akio Otsuka, Kyousuke Ikeda, Marika Hayashi, Umeji Sasaki, Masashi Sugawara, Hisao Egawa",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2006,
-    "duration": "95 min"
+    "rating": 8.6,
+    "language": "Japanese",
+    "profit": 1317
   },
   {
     "show_id": "s64",
-    "type": "TV Show",
+    "genre": "Thriller",
     "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
     "director": "Tensai Okamura",
     "cast": "Junko Takeuchi, Noriaki Sugiyama, Chie Nakamura, Kazuhiko Inoue, Yuhko Kaida, Tsutomu Isobe, Hirotaka Suzuoki, Jun Karasawa, Harii Kaneko, Ikuo Nishikawa",
     "country": "Japan",
     "date_added": "September 15, 2021",
     "release_year": 2004,
-    "duration": "83 min"
+    "rating": 8,
+    "language": "Japanese",
+    "profit": 1020
   },
   {
     "show_id": "s74",
-    "type": "TV Show",
+    "genre": "Crime",
     "title": "King of Boys",
     "director": "Kemi Adetiba",
     "cast": "Sola Sobowale, Adesua Etomi, Remilekun \"Reminisce\" Safaru, Tobechukwu \"iLLbliss\" Ejiofor, Toni Tones, Paul Sambo, Jide Kosoko, Sharon Ooja",
     "country": "Nigeria",
     "date_added": "September 14, 2021",
     "release_year": 2018,
-    "duration": "182 min"
+    "rating": 7.3,
+    "language": "English",
+    "profit": 540
   },
   {
     "show_id": "s82",
-    "type": "TV Show",
+    "genre": "Action",
     "title": "Kate",
     "director": "Cedric Nicolas-Troyan",
     "cast": "Mary Elizabeth Winstead, Jun Kunimura, Woody Harrelson, Tadanobu Asano, Miyavi, Michiel Huisman, Miku Martineau",
     "country": "United States",
     "date_added": "September 10, 2021",
     "release_year": 2021,
-    "duration": "106 min"
+    "rating": 8.6,
+    "language": "English",
+    "profit": 1580
   },
   {
     "show_id": "s85",
-    "type": "TV Show",
+    "genre": "Comedy",
     "title": "Omo Ghetto: the Saga",
     "director": "JJC Skillz, Funke Akindele",
     "cast": "Funke Akindele, Ayo Makun, Chioma Chukwuka Akpotha, Yemi Eberechi Alade, Blossom Chukwujekwu, Deyemi Okanlawon, Alexx Ekubo, Zubby Michael, Tina Mba, Femi Jacobs",
     "country": "Nigeria",
     "date_added": "September 10, 2021",
     "release_year": 2020,
-    "duration": "147 min"
+    "rating": 7.4,
+    "language": "English",
+    "profit": 650
   },
   {
     "show_id": "s91",
-    "type": "TV Show",
+    "genre": "Fantasy",
     "title": "Paradise Hills",
     "director": "Alice Waddington",
     "cast": "Emma Roberts, Danielle Macdonald, Awkwafina, Eiza González, Milla Jovovich, Jeremy Irvine, Arnaud Valois, Daniel Horvath",
     "country": "Spain",
     "date_added": "September 9, 2021",
     "release_year": 2019,
-    "duration": "95 min"
+    "rating": 8.8,
+    "language": "Spanish",
+    "profit": 1300
   },
   {
     "show_id": "s97",
-    "type": "TV Show",
+    "genre": "Documentary",
     "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
     "director": "Stephen Kijak",
     "cast": "Ronnie Van Zandt, Gary Rossington, Allen Collins, Leon Wilkeson, Bob Burns, Billy Powell, Ed King, Artimus Pyle, Steve Gaines, Johnny Van Zant",
     "country": "United States",
     "date_added": "September 7, 2021",
     "release_year": 2018,
-    "duration": "97 min"
+    "rating": 8.4,
+    "language": "English",
+    "profit": 1780
   },
   {
     "show_id": "s106",
-    "type": "TV Show",
+    "genre": "Crime",
     "title": "Angamaly Diaries",
     "director": "Lijo Jose Pellissery",
     "cast": "Antony Varghese, Reshma Rajan, Binny Rinky Benjamin, Vineeth Vishwam, Kichu Tellus, Sreekanth Dasan, Sarath Kumar, Tito Wilson, Anandhu, Bitto Davis, Sinoj Varghese",
     "country": "India",
     "date_added": "September 5, 2021",
     "release_year": 2017,
-    "duration": "128 min"
+    "rating": 7.3,
+    "language": "Indian",
+    "profit": 1090
   },
   {
     "show_id": "s108",
-    "type": "TV Show",
+    "genre": "Drama",
     "title": "A Champion Heart",
     "director": "David de Vos",
     "cast": "Mandy Grace, David de Vos, Donna Rusch, Devan Key, Isabella Mancuso, Ariana Guido",
     "country": "United States",
     "date_added": "September 4, 2021",
     "release_year": 2018,
-    "duration": "90 min"
+    "rating": 8.2,
+    "language": "English",
+    "profit": 1590
   },
   {
     "show_id": "s115",
-    "type": "TV Show",
+    "genre": "Crime",
     "title": "Anjaam",
     "director": "Rahul Rawail",
     "cast": "Madhuri Dixit, Shah Rukh Khan, Tinnu Anand, Johny Lever, Kalpana Iyer, Himani Shivpuri, Sudha Chandran, Beena, Kiran Kumar",
     "country": "India",
     "date_added": "September 2, 2021",
     "release_year": 1994,
-    "duration": "143 min"
+    "rating": 7,
+    "language": "Indian",
+    "profit": 1050
   },
   {
     "show_id": "s116",
-    "type": "TV Show",
+    "genre": "Romance",
     "title": "Bright Star",
     "director": "Jane Campion",
     "cast": "Abbie Cornish, Ben Whishaw, Paul Schneider, Kerry Fox, Edie Martin, Thomas Brodie-Sangster, Claudie Blakley, Gerard Monaco, Antonia Campbell-Hughes, Samuel Roukin",
     "country": "United Kingdom",
     "date_added": "September 2, 2021",
     "release_year": 2009,
-    "duration": "119 min"
+    "rating": 8.4,
+    "language": "English",
+    "profit": 1480
   },
   {
     "show_id": "s117",
-    "type": "TV Show",
+    "genre": "Drama",
     "title": "Dhanak",
     "director": "Nagesh Kukunoor",
     "cast": "Krrish Chhabria, Hetal Gada, Vipin Sharma, Gulfam Khan, Suresh Menon, Vijay Maurya, Rajiv Lakshman, Ninad Kamat",
     "country": "India",
     "date_added": "September 2, 2021",
     "release_year": 2015,
-    "duration": "114 min"
+    "rating": 6.4,
+    "language": "Indian",
+    "profit": 780
   },
   {
     "show_id": "s119",
-    "type": "TV Show",
+    "genre": "Crime",
     "title": "Gurgaon",
     "director": "Shanker Raman",
     "cast": "Akshay Oberoi, Pankaj Tripathi, Ragini Khanna, Aamir Bashir, Shalini Vatsa, Ashish Verma",
     "country": "India",
     "date_added": "September 2, 2021",
     "release_year": 2017,
-    "duration": "106 min"
+    "rating": 6.2,
+    "language": "Indian",
+    "profit": 830
   },
   {
     "show_id": "s127",
-    "type": "TV Show",
+    "genre": "Drama",
     "title": "Shikara",
     "director": "Vidhu Vinod Chopra",
     "cast": "Aadil Khan, Sadia Khateeb, Zain Khan Durrani, Priyanshu Chatterjee, Bhavna Chauhan, Ashwin Dhar, Farid Azad Khan, Saghar Sehrai",
     "country": "India",
     "date_added": "September 2, 2021",
     "release_year": 2020,
-    "duration": "115 min"
+    "rating": 7.5,
+    "language": "Indian",
+    "profit": 930
   },
   {
     "show_id": "s128",
-    "type": "TV Show",
+    "genre": "Comedy",
     "title": "A Cinderella Story",
     "director": "Mark Rosman",
     "cast": "Hilary Duff, Chad Michael Murray, Jennifer Coolidge, Dan Byrd, Regina King, Julie Gonzalo, Lin Shaye, Madeline Zima, Andrea Avery, Mary Pat Gleason, Paul Rodriguez, Whip Hubley, Kevin Kilner, Erica Hubbard, Simon Helberg",
     "country": "United States",
     "date_added": "September 1, 2021",
     "release_year": 2004,
-    "duration": "95 min"
+    "rating": 7.5,
+    "language": "English",
+    "profit": 1020
   },
   {
     "show_id": "s130",
-    "type": "TV Show",
+    "genre": "Drama",
     "title": "An Unfinished Life",
     "director": "Lasse Hallström",
     "cast": "Robert Redford, Jennifer Lopez, Morgan Freeman, Josh Lucas, Damian Lewis, Camryn Manheim, Becca Gardner, Lynda Boyd, Rob Hayter, P. Lynn Johnson",
     "country": "Germany",
     "date_added": "September 1, 2021",
     "release_year": 2005,
-    "duration": "108 min"
+    "rating": 8.1,
+    "language": "German",
+    "profit": 930
   },
   {
     "show_id": "s132",
-    "type": "Movie",
+    "genre": "Action",
     "title": "Blade Runner: The Final Cut",
     "director": "Ridley Scott",
     "cast": "Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos, M. Emmet Walsh, Daryl Hannah, William Sanderson, Brion James, Joe Turkel, Joanna Cassidy, James Hong, Morgan Paull",
     "country": "United States",
     "date_added": "September 1, 2021",
     "release_year": 1982,
-    "duration": "117 min"
+    "rating": 7.2,
+    "language": "English",
+    "profit": 700
   },
   {
     "show_id": "s134",
-    "type": "Movie",
+    "genre": "Comedy",
     "title": "Chappie",
     "director": "Neill Blomkamp",
     "cast": "Sharlto Copley, Hugh Jackman, Sigourney Weaver, Dev Patel, Ninja, Yo-Landi Visser, Jose Pablo Cantillo, Brandon Auret, Johnny Selema, Maurice Carpede",
     "country": "South Africa",
     "date_added": "September 1, 2021",
     "release_year": 2015,
-    "duration": "121 min"
+    "rating": 7.8,
+    "language": "English",
+    "profit": 1200
   },
   {
     "show_id": "s135",
-    "type": "Movie",
+    "genre": "Drama",
     "title": "Clear and Present Danger",
     "director": "Phillip Noyce",
     "cast": "Harrison Ford, Willem Dafoe, Anne Archer, Joaquim de Almeida, Henry Czerny, Harris Yulin, Donald Moffat, Miguel Sandoval, Benjamin Bratt, Dean Jones, Thora Birch, James Earl Jones, Raymond Cruz",
     "country": "Mexico",
     "date_added": "September 1, 2021",
     "release_year": 1994,
-    "duration": "142 min"
+    "rating": 7.9,
+    "language": "Spanish",
+    "profit": 1000
   },
   {
     "show_id": "s136",
-    "type": "Movie",
+    "genre": "Action",
     "title": "Cliffhanger",
     "director": "Renny Harlin",
     "cast": "Sylvester Stallone, John Lithgow, Michael Rooker, Janine Turner, Rex Linn, Caroline Goodall, Leon, Craig Fairbrass, Ralph Waite, Max Perlich, Paul Winfield",
     "country": "Italy",
     "date_added": "September 1, 2021",
     "release_year": 1993,
-    "duration": "113 min"
+    "rating": 7.5,
+    "language": "Italian",
+    "profit": 950
   },
   {
     "show_id": "s137",
-    "type": "Movie",
+    "genre": "Drama",
     "title": "Cold Mountain",
     "director": "Anthony Minghella",
     "cast": "Jude Law, Nicole Kidman, Renée Zellweger, Eileen Atkins, Brendan Gleeson, Philip Seymour Hoffman, Natalie Portman, Giovanni Ribisi, Donald Sutherland, Ray Winstone",
     "country": "United Kingdom",
     "date_added": "September 1, 2021",
     "release_year": 2003,
-    "duration": "154 min"
+    "rating": 7.9,
+    "language": "English",
+    "profit": 1040
   },
   {
     "show_id": "s138",
-    "type": "Movie",
+    "genre": "Action",
     "title": "Crocodile Dundee in Los Angeles",
     "director": "Simon Wincer",
     "cast": "Paul Hogan, Linda Kozlowski, Jere Burns, Jonathan Banks, Aida Turturro, Alec Wilson, Gerry Skilton, Steve Rackman, Serge Cockburn, Paul Rodriguez, Mark Adair-Rios, Tiriel Mora, Grant Piro, Mike Tyson",
     "country": "Australia",
     "date_added": "September 1, 2021",
     "release_year": 2001,
-    "duration": "95 min"
+    "rating": 8.1,
+    "language": "English",
+    "profit": 1080
   },
   {
     "show_id": "s139",
-    "type": "Movie",
+    "genre": "Romance",
     "title": "Dear John",
     "director": "Lasse Hallström",
     "cast": "Channing Tatum, Amanda Seyfried, Richard Jenkins, Henry Thomas, D.J. Cotrona, Cullen Moss, Gavin McCulley, Jose Lucena Jr., Keith Robinson, Scott Porter",
     "country": "United States",
     "date_added": "September 1, 2021",
     "release_year": 2010,
-    "duration": "108 min"
+    "rating": 8.3,
+    "language": "English",
+    "profit": 1230
   }
 ]
